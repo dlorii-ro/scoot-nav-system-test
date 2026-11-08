@@ -1,7 +1,8 @@
 import json
 from valhalla import Actor, get_config
+print("TESTING")
 
-config = get_config(tile_extract="/home/sasha/valhalla_data/valhalla_tiles.tar", verbose=False)
+config = get_config(tile_extract="/home/sasha/valhalla_data/valhalla_tiles.tar", tile_dir="/home/sasha/valhalla_data", verbose=False)
 actor = Actor(config)
 
 request = {
