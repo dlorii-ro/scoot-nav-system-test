@@ -8,7 +8,7 @@ actor = Actor(config)
 request = {
 	"locations": [
 		{"lat": 41.49104, "lon": -71.23516},
-		{"lat": 41.26280, "lon": -72.55120},
+		{"lat": 41.441125, "lon": -72.920135},
 	],
 	"costing": "auto",
 	"costing_options": {
