@@ -10,7 +10,7 @@ request = {
 		{"lat": 41.81928, "lon": -71.39842},
 		{"lat": 41.84597, "lon": -71.41714},
 	],
-	"costing": "motor_scooter",
+	"costing": "auto",
 	"costing_options": {
 		"motor_scooter": {
 			"top_speed": 72,
